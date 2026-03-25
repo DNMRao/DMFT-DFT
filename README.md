@@ -4,8 +4,9 @@ This repository provides a Python-based framework that combines first-principles
 
 Key features include:
 
-Integration of Density Functional Theory (DFT) with Dynamical Mean-Field Theory (DMFT)
-Use of a DFT-derived Hamiltonian as input for many-body calculations
+Integration of Density Functional Theory (DFT) with Dynamical Mean-Field Theory (DMFT), 
+Use of a DFT-derived Hamiltonian as input for many-body calculations, 
+//
 Computation of:
 Single-particle Green’s functions
 Two-particle Green’s functions
